@@ -1,7 +1,7 @@
 #common configuration shared between all applications
 configserver:
-  name: Docker JHipster Registry with local repo
-  status: Connected to the JHipster Registry running in Docker with local repo
+  name: Docker JHipster Registry with indraneel repo
+  status: Connected to the JHipster Registry running in Docker with indraneel repo
 
 jhipster:
   security:
