@@ -12,3 +12,6 @@ eureka:
   client:
     service-url:
       defaultZone: http://admin:${jhipster.registry.password}@jhipster-registry:8761/eureka/
+
+
+greeting: "Hello base!"

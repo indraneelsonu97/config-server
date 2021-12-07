@@ -202,3 +202,5 @@ jhipster:
 # ===================================================================
 
 # application:
+
+greeting: "Hello home application.yml!"

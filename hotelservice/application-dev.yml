@@ -97,3 +97,5 @@ jhipster:
 # ===================================================================
 
 # application:
+
+greeting: "Hello home application-dev.yml!"
