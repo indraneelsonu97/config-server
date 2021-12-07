@@ -1,0 +1,14 @@
+#common configuration shared between all applications
+configserver:
+  name: Docker JHipster Registry with indraneel repo
+  status: Connected to the JHipster Registry running in Docker with indraneel repo
+
+jhipster:
+  security:
+    authentication:
+      jwt:
+        base64-secret: MmE5ZjIwMzdhN2ZjOTQ4MmQxYjQxZTdhMWI2YTcyZjYzYTk5NTg3ZDdkY2ZlMWIwZGE3YzQyN2MxNDdlNDA2MWFmYWZjYmQ5ZmY2MjIzNmRjZDUxZTVhMTA5N2MyZDc3OGIzMg==
+eureka:
+  client:
+    service-url:
+      defaultZone: http://admin:${jhipster.registry.password}@jhipster-registry:8761/eureka/
