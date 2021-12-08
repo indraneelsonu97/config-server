@@ -122,4 +122,4 @@ jhipster:
 
 greeting: "Hello home application.prod!"
 
-message: Hello world - this message is from development
+message: Hello world - this message is from prod under hotel service

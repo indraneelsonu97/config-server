@@ -100,4 +100,4 @@ jhipster:
 
 greeting: "Hello home application-dev.yml!"
 
-message: Hello world - this message is from development
+message: Hello world - this message is from dev under hotel service
