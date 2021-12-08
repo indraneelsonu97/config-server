@@ -78,6 +78,10 @@ jhipster:
       port: 5000
       queue-size: 512
 
+jhipster:
+  registry:
+    password: admin
+
 # application:
 
 greeting: "Hello home application.prod!"
